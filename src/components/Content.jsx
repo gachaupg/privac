@@ -127,7 +127,7 @@ const Content = () => {
         {show2 && ( */}
           <p style={{ textDecoration: "dotted" }}>
             <GoDotFill /> Send an Email: Submit an application to{" "}
-            <a href="care@yafreeka.com">care@yafreeka.com</a> . In the email,
+            <a href="mailto:care@yafreeka.com">care@yafreeka.com</a> . In the email,
             include your Yafreeka username, a brief description of your channel,
             and any other relevant details you believe would support your
             application.
@@ -341,7 +341,7 @@ const Content = () => {
                   - If you encounter any issues or have questions about setting
                   or editing content prices, feel free to reach out to our
                   support team at{" "}
-                  <a href="care@yafreeka.com">care@yafreeka.com</a>. We're here
+                  <a href="mailto:care@yafreeka.com">care@yafreeka.com</a>. We're here
                   to assist you.
                 </li>
                 <li>
@@ -364,7 +364,7 @@ const Content = () => {
           rewarding originality, we can foster a community that values
           creativity and innovation. <br />
           For any inquiries or to initiate the monetization application process,
-          please contact us at <a href="care@yafreeka.com">care@yafreeka.com</a> . We look forward to seeing the
+          please contact us at <a href="mailto:care@yafreeka.com">care@yafreeka.com</a> . We look forward to seeing the
           incredible content you bring to Yafreeka, and we're excited to support
           you on your journey as a creator.
         </p>
